@@ -1,0 +1,1 @@
+pyuic5 Cassini.ui > ../_python/Cassini_UI.py
